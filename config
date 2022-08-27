@@ -5,19 +5,19 @@ NMCLI_ROFI_SOURCE=$HOME/config
 # 1 2 3
 # 8 0 4
 # 7 6 5
-POSITION=3
+POSITION=0
 
 #y-offset
-YOFF=30
+YOFF=0
 
 #x-offset
 XOFF=0
 
 #window width correction
-MAGIC=-5
+MAGIC=0
 
 #fields to be displayed
-FIELDS=SSID,SECURITY,BARS
+FIELDS=SSID,SECURITY
 
 #font
-FONT="DejaVu Sans Mono Bold 12"
+FONT="HarmonyOS Sans 11"
